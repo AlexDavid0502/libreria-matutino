@@ -1,4 +1,4 @@
-Spackage com.distribuida.principaldao;
+package com.distribuida.principaldao;
 
 import java.util.List;
 
